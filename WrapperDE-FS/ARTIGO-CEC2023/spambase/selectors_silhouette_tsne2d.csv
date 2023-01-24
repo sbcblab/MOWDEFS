@@ -1,0 +1,8 @@
+,Selection,Original silhouette,Weighted silhouette,Embedding silhouette,KL divergence
+0,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/spambase/KruskallWallis_score_spambase.csv,0.1974828583952723,0.20050738255771577,0.0929159321110585,0.631496411130577
+1,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/spambase/MutualInformation_score_spambase.csv,0.1974828583952723,0.20127899275936678,0.0905793007027171,0.6452521340111002
+2,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/spambase/ReliefF_score_spambase.csv,0.1974828583952723,0.19255710628969314,0.1026747769671831,0.6437847586256087
+3,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/spambase/Lasso_score_spambase.csv,0.1974828583952723,0.19487041018441079,0.09194173620717333,0.5869225520334123
+4,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/spambase/DecisionTree_score_spambase.csv,0.1974828583952723,0.21146711562027637,0.13107588598339368,0.6670537112870001
+5,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/spambase/LinearSVM_score_spambase.csv,0.1974828583952723,0.08956640940194614,0.20327510587571537,0.8741988387851887
+6,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/spambase/RF_score_spambase.csv,0.1974828583952723,0.19909438069475563,0.10231631644041854,0.6510857260342711

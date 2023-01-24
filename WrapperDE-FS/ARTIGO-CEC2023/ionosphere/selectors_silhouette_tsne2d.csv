@@ -1,0 +1,8 @@
+,Selection,Original silhouette,Weighted silhouette,Embedding silhouette,KL divergence
+0,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/ionosphere/KruskallWallis_score_ionosphere.csv,0.15470322321142121,0.2827052612241979,0.24728355777405986,0.351710796594185
+1,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/ionosphere/MutualInformation_score_ionosphere.csv,0.15470322321142121,0.16508148062442016,0.0829623657665056,0.5291142234606934
+2,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/ionosphere/ReliefF_score_ionosphere.csv,0.15470322321142121,0.16705296135882255,0.07504616501690646,0.5778529419299225
+3,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/ionosphere/Lasso_score_ionosphere.csv,0.15470322321142121,0.3680916438047067,0.26869471731806477,0.34519307344906647
+4,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/ionosphere/DecisionTree_score_ionosphere.csv,0.15470322321142121,0.34724301003008573,0.26825814616397403,0.27119459546183755
+5,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/ionosphere/LinearSVM_score_ionosphere.csv,0.15470322321142121,0.16998520125763697,0.058724407568661555,0.5595893814655195
+6,/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/ionosphere/RF_score_ionosphere.csv,0.15470322321142121,0.2637354834789424,0.21597810466224382,0.42552073529293555

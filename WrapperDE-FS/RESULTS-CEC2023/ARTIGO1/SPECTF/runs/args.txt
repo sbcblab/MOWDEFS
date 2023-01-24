@@ -1,0 +1,1 @@
+['main_json.py', '/home/gdominico/workspace/WrapperDE-FS-MO2/WrapperDE-FS/RESULTS/ARTIGO1/SPECTF/runs/']
