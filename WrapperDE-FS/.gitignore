@@ -1,3 +1,5 @@
 *.out
 *.batch
 *.sh
+.ipynb_checkpoints
+__pycache__
